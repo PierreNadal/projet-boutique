@@ -1,5 +1,5 @@
 <?php
-
+//projet boutique
 //GALLARDO Pierre BTS SIO1
 
 $articlesBoutique = ["Chaussures","T-Shirts","Jeans","Pulls","Montres"]; //initialisation du tableau des articles disponibles + taille minimum de 5 éléments
