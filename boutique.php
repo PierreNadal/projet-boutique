@@ -1,5 +1,7 @@
 <?php
 
+//GALLARDO Pierre BTS SIO1
+
 $articlesBoutique = ["Chaussures","T-Shirts","Jeans","Pulls","Montres"]; //initialisation du tableau des articles disponibles + taille minimum de 5 éléments
 $quantitéArticles = [10,10,10,10,10]; //initialisation du tableau des quantités des articles + taille qui doit être égale aux articles disponibles
 $quantitéVendues = [0,0,0,0,0];
